@@ -1,4 +1,4 @@
-----
+---
 layout: post
 title: "Microsoft AI School 첫번째 날"
 date: 2025-09-16
