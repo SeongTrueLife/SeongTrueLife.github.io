@@ -4,7 +4,7 @@ title: "Microsoft AI School 세번째 날"
 date: 2025-09-18
 ---
 
-#오늘 ms ai school 에서 배운것
+# 오늘 ms ai school 에서 배운것
  
  ## GitHub 사용법 기본(Repositories등에 관하여)
   - Git hub의 Repositories 사용법
